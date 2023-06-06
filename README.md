@@ -1,3 +1,3 @@
 # jenkins-github
 
-testing 123456
+testing 123
